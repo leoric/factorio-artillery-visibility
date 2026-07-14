@@ -1,0 +1,10 @@
+{
+	"name":"artillery-visibility-2_0",
+	"author":"Narase123",
+	"version":"2.0.0",
+	"title":"Artillery Visibility 2.0",
+	"homepage":"",
+	"description":"Makes artillery more visible on the map by turning the range indicator from red to green.",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 0.13.00"]
+}

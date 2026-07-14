@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0
+Date: Mar 03 2025
+  Major Features:
+    - Ready for 2.0
+
+Version: 0.0.1
+Date: Jan 12 2023
+  Major Features:
+    - Change artillery range color to something more visibile
+    - Setting to select from 5 colors, or go back to default if needed
