@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: Jul 12 2026
+  Changes:
+    - Updated to Factorio 2.1. No code changes were required.
+
 Version: 2.0
 Date: Mar 03 2025
   Major Features:
